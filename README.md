@@ -162,6 +162,7 @@ ClickHouse Go [https://clickhouse.com/docs/integrations/go](https://clickhouse.c
 
 Apache Flink [clickhouse.com/docs/integrations/go](https://flink.apache.org/)
 
+Окна и водяные знаки: потоковая обработка данных с Apache Flink [https://bigdataschool.ru/blog/windows-and-watermarks-in-flink/#:~:text=По умолчанию в Apache Flink,и допускается определенная степень задержки.](https://bigdataschool.ru/blog/windows-and-watermarks-in-flink/#:~:text=%D0%9F%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%B2%20Apache%20Flink,%D0%B8%20%D0%B4%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D1%8C%20%D0%B7%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B8.)
 Проектирование высокопроизводительных кэширующих решений с использованием Redis и Memcached [habr.com/ru/companies/otus/articles/548690/](https://habr.com/ru/search/?q=%D0%9A%D1%8D%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D1%81+Redis&target_type=posts&order=relevance&hf=similar_posts_202412_B)
 
 Helm Charts [https://habr.com/ru/companies/otus/articles/790710/] https://habr.com/ru/companies/otus/articles/790710/
