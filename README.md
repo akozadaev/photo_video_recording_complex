@@ -164,4 +164,6 @@ Apache Flink [clickhouse.com/docs/integrations/go](https://flink.apache.org/)
 
 Проектирование высокопроизводительных кэширующих решений с использованием Redis и Memcached [habr.com/ru/companies/otus/articles/548690/](https://habr.com/ru/search/?q=%D0%9A%D1%8D%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D1%81+Redis&target_type=posts&order=relevance&hf=similar_posts_202412_B)
 
+Helm Charts [https://habr.com/ru/companies/otus/articles/790710/] https://habr.com/ru/companies/otus/articles/790710/
+
 ELK (ElasticSearch, LogStash, Kibana) - логирование и анализ здорового человека [https://wiki.merionet.ru/articles/elk-elasticsearch-logstash-kibana-logirovanie-i-analiz-zdorovogo-cheloveka](https://wiki.merionet.ru/articles/elk-elasticsearch-logstash-kibana-logirovanie-i-analiz-zdorovogo-cheloveka)
